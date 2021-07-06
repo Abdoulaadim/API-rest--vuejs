@@ -2,7 +2,7 @@
 
 =>Un cabinet médical veut digitaliser son système de prise de rendez-vous, il veut donner la possibilité aux utilisateur de renseigner leurs informations et leurs permettre de réserver les créneaux disponibles.
 
-
+ 
 # Démarage server VueJS
 
 ![bref6_Vuejs_rendez_vous_demarage](https://user-images.githubusercontent.com/77145529/124587225-4832bf00-de4f-11eb-9b80-856895871d7a.gif)
